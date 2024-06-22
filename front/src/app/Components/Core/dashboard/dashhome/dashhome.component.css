@@ -1,0 +1,23 @@
+.custom-card {
+    background-color: #777676da;
+}
+
+.icon-large {
+    font-size: 2em;
+}
+
+#money{
+  background-color: #5bad5b;
+}
+
+#product{
+  background-color: #92aaff;
+}
+
+#order{
+  background-color: #d9b26a;
+}
+
+#user{
+  background-color: #c1fbde;
+}
